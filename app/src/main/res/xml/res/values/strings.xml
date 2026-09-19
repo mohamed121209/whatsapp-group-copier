@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ناسخ مجموعات واتساب</string>
+    <string name="accessibility_name">ناسخ مجموعات واتساب</string>
+    <string name="accessibility_description">خدمة تساعد على التقاط النص الظاهر في شاشة واتساب عند تشغيلها يدويًا.</string>
+</resources>
